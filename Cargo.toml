@@ -1,0 +1,13 @@
+[package]
+name = "flatcc"
+version = "22.10.26"
+edition = "2021"
+description = "Build-time convenience utilities for flatbuffers"
+repository = "https://github.com/fugue-re/flatcc"
+license = "MIT"
+
+[dependencies]
+flatc-rust = "0.2"
+
+[build-dependencies]
+cmake = "0.1"
