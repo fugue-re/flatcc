@@ -1,6 +1,6 @@
 [package]
 name = "flatcc"
-version = "22.10.26"
+version = "23.1.21"
 edition = "2021"
 description = "Build-time convenience utilities for flatbuffers"
 repository = "https://github.com/fugue-re/flatcc"
